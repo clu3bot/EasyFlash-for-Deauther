@@ -27,7 +27,7 @@ echo -e "${LRED}Downloading Esptool${NONE}"
 cd Files
 git clone https://github.com/espressif/esptool.git
 echo -e "${LRED}Esptool Cloned Successfully${NONE}"
-cd-
+cd -
 #
 clear
         echo -e "${LBLUE}Step 1 Find ttyUSB port number${NONE}"
@@ -41,11 +41,11 @@ clear
 PS3='Choose an Option -- ' 
 while true; do
         echo -e "${LBLUE}Step 2 Time to Flash${NONE}"
-options=("Flash Device on (USB PORT $PN)" "Rescan ttyUSB port number" "Choose File (deauther v2.0.0 by default)" "Quit")
+options=("Flash Device with ($FN) on (USB PORT $PN)" "Rescan ttyUSB port number" "Choose File (Currently $FN)" "Quit")
 select opt in "${options[@]}"
 do
     case $opt in
-        "Flash Device on (USB PORT $PN)")
+        "Flash Device with ($FN) on (USB PORT $PN)")
             echo "Flashing Device"
 clear
 cd Files
@@ -71,7 +71,7 @@ clear
 break
 ;;
 
-        "Choose File (deauther v2.0.0 by default)")
+        "Choose File (Currently $FN)")
         clear
         echo -e "${LBLUE} Choose file (type full file name)${NONE}"
 read -p "What is the name of the file: " FN
@@ -86,5 +86,3 @@ break
     esac
 done
 done
-
-
