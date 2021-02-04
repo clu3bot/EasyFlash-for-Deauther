@@ -1,5 +1,9 @@
 # EasyFlash-for-Deauther
-#
+![GitHub](https://img.shields.io/github/license/clu3bot/EasyFlash-for-Deauther)
+[![GitHub issues](https://img.shields.io/github/issues/clu3bot/EasyFlash-for-Deauther)](https://github.com/clu3bot/EasyFlash-for-Deauther/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/clu3bot/EasyFlash-for-Deauther)
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
+
 # Description
 EasyFlash for Deauther allows the user to easily flash bin files to esp8266 and other development boards. This script uses espressif's esptool and spacehuhn's wifi deauther v2.0.0 paired with a userfriendly interface created by clu3bot(Me). This interface allows the user to quickly flash Esp8266 and varius other developement boards with bin files. The script comes with spacehuhn's wifi deauther v2.0.0 so you can start flashing deauthers immediately. I said stated previously the interface is very userfriendly so your able to change what bin file to flash with, without having to type a command or edit the script. 
 
