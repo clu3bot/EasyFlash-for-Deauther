@@ -27,6 +27,7 @@ echo -e "${LRED}Downloading Esptool${NONE}"
 cd Files
 git clone https://github.com/espressif/esptool.git
 echo -e "${LRED}Esptool Cloned Successfully${NONE}"
+cd-
 #
 clear
         echo -e "${LBLUE}Step 1 Find ttyUSB port number${NONE}"
