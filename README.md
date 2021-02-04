@@ -12,7 +12,7 @@ To flash with alternative bin files make sure your files are located in the /Fil
 
 # Content
 
-
+[Screenshots](https://github.com/clu3bot/EasyFlash-for-Deauther/tree/main/imgs)
 
 
 # Help/Errors
