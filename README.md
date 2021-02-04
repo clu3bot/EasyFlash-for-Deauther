@@ -10,3 +10,11 @@ EasyFlash for Deauther allows the user to easily flash bin files to esp8266 and 
 
 # Use any compatable bin file
 To flash with alternative bin files make sure your files are located in the /Files/ directory. The interface will prompt the user with an option to change the bin file used to flash the device. Simply select that option and type the name of the file.  
+
+# Help/Errors
+
+When useing the EasyFlash interface you will be prompted to scan for the ttyUSB port number and asked to type the number shown. If you type a number besides the number shown you with get a no File or Directory error. This is easily fixed by using the Rescan option and further typing the correct number shown.
+
+# Feedback
+
+Please report issues with this project as I will fix them asap. If there are features that should be added let me know. 
