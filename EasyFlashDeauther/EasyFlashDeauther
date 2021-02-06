@@ -18,7 +18,7 @@ clear
         echo -e "${LRED}EasyFlash for Deauther${NONE}"
         echo -e "${YELLOW}Created by clu3bot (Feb. 2 2021)${NONE}"
         echo -e "${YELLOW}Version 1.0.0${NONE}"
-        echo -e "${YELLOW}MIT License${NONE}"
+        echo -e "${YELLOW}GPL3.0 License${NONE}"
 read -p "Press Enter to Continue.."
 #
 clear
