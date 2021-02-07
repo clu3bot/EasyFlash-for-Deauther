@@ -2,7 +2,7 @@
 #EasyFlash for Deauther
 #Created by clu3bot (Feb. 2 2021)
 #Version 1.0.0
-#MIT License
+#GPL v3.0 License
 #
 LBLUE='\033[1;34m'
 LRED='\033[1;31m'
