@@ -1,6 +1,7 @@
 #!/bin/bash
 #EasyFlash for Deauther
-#Created by clu3bot (Feb. 2 2021)
+#Created By Brennan Mccown(clu3bot)
+#Project start date (Feb. 2 2021)
 #Version 1.0.0
 #GPL v3.0 License
 #
@@ -16,7 +17,7 @@ FN="ESP8266_Deauther_v2.0.0_1MB.bin"
 #
 clear
         echo -e "${LRED}EasyFlash for Deauther${NONE}"
-        echo -e "${YELLOW}Created by clu3bot (Feb. 2 2021)${NONE}"
+        echo -e "${YELLOW}Created by Brennan Mccown (clu3bot) (Feb. 2 2021)${NONE}"
         echo -e "${YELLOW}Version 1.0.0${NONE}"
         echo -e "${YELLOW}GPL3.0 License${NONE}"
 read -p "Press Enter to Continue.."
