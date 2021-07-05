@@ -1,4 +1,4 @@
-# EasyFlash-for-Deauther
+# EasyFlash-for-Deauther (Outdated)
 ![GitHub](https://img.shields.io/github/license/clu3bot/EasyFlash-for-Deauther)
 [![GitHub issues](https://img.shields.io/github/issues/clu3bot/EasyFlash-for-Deauther)](https://github.com/clu3bot/EasyFlash-for-Deauther/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/clu3bot/EasyFlash-for-Deauther)
